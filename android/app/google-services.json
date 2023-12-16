@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975564971599",
+    "project_id": "jasper-weight-tracker-e6aef",
+    "storage_bucket": "jasper-weight-tracker-e6aef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975564971599:android:d5adbb59be7e294f4c143a",
+        "android_client_info": {
+          "package_name": "brandon.dinesman.weight_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjnU5C1USIIlQmsfkOUQub0qlPJ7t0EfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
